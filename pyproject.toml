@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/resun-c/Django-Firestore-Session-Engine"
-Issues = "https://github.com/resun-c/Django-Firestore-Session-Engine/issues"
+Homepage = "https://github.com/resun-c/django-firestore-session-engine"
+Issues = "https://github.com/resun-c/django-firestore-session-engine/issues"
