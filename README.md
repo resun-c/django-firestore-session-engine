@@ -5,7 +5,7 @@ This is a simple [`Django Session Engine`](https://docs.djangoproject.com/en/dev
 ## Instalation
 
 ```
-pip install --index-url https://test.pypi.org/simple/ --no-deps django-firestore-session-engine
+pip install django-firestore-session-engine
 
 ```
 
