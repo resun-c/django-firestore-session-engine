@@ -5,7 +5,7 @@ from . import cfg
 class DjangoFirestoreSessionEngine(AppConfig):
 	"""Configuration for Django app."""
 	
-	name = "django_firestore_session_engine"
+	name = "django-firestore-session-engine"
 	verbose_name = "Django Firestore Session Engine"
 
 	def ready(self):
